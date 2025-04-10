@@ -36,7 +36,7 @@
         "maxUpgPercent": 12,
         "minDgPercent": 0,
         "maxDgPercent": 4,
-        "minDemand": 2,
+        "minDemand": 1,
         "minItemValueSend": 5000,
         "minItemValueRequest": 5000,
         "tags": [
